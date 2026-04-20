@@ -1,0 +1,574 @@
+﻿birth_year,race,ethnicity,education_level,sex,political_affiliation,has_children,presidential_vote,residential_location,sports_fan,title_ix_tot,womens_sports_growth
+1960,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Donald Trump,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1951,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1947,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small town,No,Favorable,The main factor
+1953,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1973,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,Yes,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1940,Unsure,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Joe Biden,A small town,Yes,Unfavorable,A minor factor
+1960,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Donald Trump,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Rural,Yes,Favorable,The main factor
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Donald Trump,A small city,No,Favorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A big city,Yes,Favorable,The main factor
+1954,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1933,Mixed,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1967,Mixed,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,didn't get a chance to vote,Suburban,No,Favorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Working families,No,Joe Biden,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1951,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Joe Biden,A small town,Yes,Favorable,The main factor
+1940,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,No,Joe Biden,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A small city,No,Unfavorable,Not a factor at all
+1963,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,Yes,Donald Trump,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1943,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,Suburban,Yes,Unfavorable,Not a factor at all
+1939,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Rural,Unsure,Favorable,"A major factor, but not the main factor"
+1948,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,Suburban,No,Unfavorable,Not a factor at all
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1933,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Unfavorable,Unsure
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1972,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,A small town,No,Favorable,The main factor
+1978,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1995,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,didn't get a chance to vote,Suburban,Yes,Unfavorable,A minor factor
+1957,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,Suburban,Yes,Favorable,A minor factor
+1959,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,The main factor
+1945,Mixed,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A small city,No,Unfavorable,A minor factor
+1947,Black or African-American,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,Yes,Unfavorable,The main factor
+1953,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,Rural,Yes,Favorable,A minor factor
+2000,Mixed,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,Yes,Unfavorable,The main factor
+1944,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small city,No,Unfavorable,Not a factor at all
+1968,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Rural,Yes,Favorable,Unsure
+1938,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1952,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,Joe Biden,A small town,No,Unfavorable,A minor factor
+1944,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1936,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A big city,No,Favorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small town,No,Unfavorable,Unsure
+1962,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,Yes,Donald Trump,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1934,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Rural,No,Favorable,The main factor
+1966,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1970,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1979,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,Suburban,Yes,Favorable,The main factor
+1939,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,The main factor
+1943,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Someone else,Rural,No,Unfavorable,Not a factor at all
+1943,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A big city,Yes,Unfavorable,"A major factor, but not the main factor"
+1965,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1951,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1957,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1956,Black or African-American,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A big city,No,Unfavorable,Unsure
+1949,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Someone else,A small city,No,Favorable,The main factor
+1940,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Non-binary,Democrat,No,Joe Biden,Rural,No,Favorable,"A major factor, but not the main factor"
+1947,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,Yes,Unfavorable,"A major factor, but not the main factor"
+1959,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1945,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,Rural,Yes,Favorable,A minor factor
+1947,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Republican,No,didn't get a chance to vote,A big city,No,Favorable,"A major factor, but not the main factor"
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A big city,Yes,Unfavorable,Unsure
+1962,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,Rural,No,Unfavorable,Not a factor at all
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Joe Biden,A small city,Yes,Favorable,A minor factor
+1952,White or Caucasian,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1938,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,The main factor
+1944,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,The main factor
+1963,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Joe Biden,Rural,Yes,Favorable,A minor factor
+1942,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Independent,No,Donald Trump,Rural,No,Unfavorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1945,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,No,Joe Biden,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1939,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1943,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Rural,No,Unfavorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A big city,Yes,Unfavorable,A minor factor
+1941,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1956,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,The main factor
+1982,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1986,Other,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Suburban,No,Unfavorable,A minor factor
+1977,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,Suburban,No,Favorable,Unsure
+1975,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,Yes,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1963,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Someone else,A small city,Yes,Unfavorable,Not a factor at all
+1956,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1962,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Favorable,The main factor
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Conservative,No,Donald Trump,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1980,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1989,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Non-binary,Democrat,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1971,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,Yes,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A small town,Yes,Favorable,The main factor
+1967,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Someone else,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1988,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Someone else,Rural,Yes,Favorable,The main factor
+1963,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1968,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,Yes,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1967,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1981,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1997,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1971,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,Yes,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1998,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1961,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1958,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1990,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,didn't get a chance to vote,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1976,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1956,Mixed,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Donald Trump,A big city,No,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Unsure,A small city,No,Unfavorable,A minor factor
+1958,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Rural,Yes,Favorable,The main factor
+1943,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1974,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1995,Mixed,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Someone else,Rural,No,Unfavorable,A minor factor
+1939,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1947,White or Caucasian,Not Latino or Hispanic,LESS THAN HIGH SHOOL/LESS THAN 12TH GRADE,Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1975,White or Caucasian,Not Latino or Hispanic,TECHNICAL OR TRADE SCHOOL,Male,Republican,Yes,Donald Trump,A small city,Yes,Unfavorable,Unsure
+1957,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,The main factor
+1980,Just Hispanic,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Suburban,Yes,Favorable,The main factor
+1956,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1975,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Conservative,No,Donald Trump,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1972,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1979,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,The main factor
+1940,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,A minor factor
+1980,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Rural,Yes,Favorable,The main factor
+2000,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Suburban,Yes,Favorable,A minor factor
+1958,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Someone else,Rural,No,Favorable,The main factor
+1953,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1994,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Joe Biden,Suburban,No,Favorable,A minor factor
+1949,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,Rural,No,Unfavorable,Unsure
+1983,White or Caucasian,Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,A minor factor
+1941,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Donald Trump,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1983,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,Yes,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1965,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,A big city,No,Unfavorable,Unsure
+1964,White or Caucasian,Not Latino or Hispanic,LESS THAN HIGH SHOOL/LESS THAN 12TH GRADE,Female,Republican,No,Donald Trump,Suburban,Yes,Favorable,A minor factor
+1971,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,Yes,Joe Biden,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1974,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1963,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Republican,Yes,Donald Trump,Suburban,No,Unfavorable,A minor factor
+1985,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,Yes,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1962,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A big city,No,Unfavorable,The main factor
+1937,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,No,Donald Trump,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1960,Unsure,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Someone else,Suburban,Yes,Favorable,The main factor
+1969,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1972,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1956,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1980,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,Yes,Someone else,A small city,Yes,Favorable,A minor factor
+1991,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1942,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Rural,No,Unfavorable,Not a factor at all
+1991,Mixed,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,Yes,Unfavorable,A minor factor
+1960,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,The main factor
+1965,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Suburban,Yes,Unfavorable,Not a factor at all
+1981,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,No,Favorable,The main factor
+1947,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Rural,No,Favorable,"A major factor, but not the main factor"
+1969,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Unfavorable,"A major factor, but not the main factor"
+1975,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Rural,No,Favorable,The main factor
+1964,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Rural,Yes,Favorable,A minor factor
+1986,Just Hispanic,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1981,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,Yes,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1978,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,Unsure
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A big city,No,Favorable,The main factor
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1963,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1958,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,A small town,No,Unfavorable,A minor factor
+1954,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,A small town,No,Unfavorable,Unsure
+1985,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,Yes,Donald Trump,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1991,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A big city,Yes,Favorable,Unsure
+1985,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Republican,Yes,Donald Trump,A small town,No,Unfavorable,Not a factor at all
+1996,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1967,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Rural,No,Unfavorable,A minor factor
+1995,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,Yes,Joe Biden,A big city,No,Favorable,A minor factor
+1986,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Someone else,A big city,Yes,Unfavorable,The main factor
+1955,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1959,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,A minor factor
+1962,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,A minor factor
+1990,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Donald Trump,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1962,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small town,No,Unfavorable,The main factor
+1981,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Donald Trump,Suburban,Yes,Favorable,The main factor
+1953,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Joe Biden,A small city,Yes,Unfavorable,A minor factor
+1947,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,No,Donald Trump,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1967,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Donald Trump,A small city,Yes,Unfavorable,The main factor
+1947,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1963,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,Yes,Donald Trump,A small city,Yes,Unfavorable,A minor factor
+1946,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Suburban,Yes,Favorable,A minor factor
+1954,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Donald Trump,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1977,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1972,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Rural,Yes,Favorable,The main factor
+1955,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,A minor factor
+1975,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,No,Favorable,The main factor
+1951,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,Suburban,No,Favorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A small town,Yes,Favorable,The main factor
+1960,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Donald Trump,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1994,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small town,No,Unfavorable,A minor factor
+1953,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1992,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Someone else,A small town,Yes,Favorable,The main factor
+1953,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1971,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,Yes,Joe Biden,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1988,"Asian, Asian Indian",Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1965,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,The main factor
+1969,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Donald Trump,A big city,No,Favorable,A minor factor
+1964,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Suburban,Yes,Unfavorable,A minor factor
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,Yes,Favorable,The main factor
+1983,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1934,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,The main factor
+1973,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Someone else,A small city,No,Favorable,The main factor
+1994,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1966,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,Yes,Donald Trump,Rural,Yes,Favorable,The main factor
+1955,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Someone else,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1992,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Joe Biden,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1989,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,Yes,Joe Biden,A small city,Yes,Favorable,The main factor
+1956,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,Unsure,Favorable,"A major factor, but not the main factor"
+1978,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1983,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Democrat,Yes,Joe Biden,Suburban,No,Unfavorable,A minor factor
+1990,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Donald Trump,A big city,Yes,Unfavorable,Not a factor at all
+1985,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Donald Trump,Suburban,Yes,Unfavorable,Unsure
+1939,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,A small town,Yes,Unfavorable,Unsure
+1967,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1988,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1984,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,Yes,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1996,Mixed,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1939,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Donald Trump,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1939,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Republican,No,Donald Trump,Rural,No,Unfavorable,Unsure
+1947,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Joe Biden,Rural,Yes,Favorable,A minor factor
+1948,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,Rural,No,Unfavorable,Unsure
+1963,White or Caucasian,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1947,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A small town,Yes,Unfavorable,The main factor
+1956,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1958,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1961,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1951,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Republican,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1984,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1970,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,No,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1948,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,The main factor
+1979,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,Yes,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1950,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small city,No,Unfavorable,The main factor
+1957,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,A small town,No,Unfavorable,A minor factor
+1951,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Donald Trump,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A big city,No,Favorable,Unsure
+1971,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,Yes,Donald Trump,Suburban,No,Unfavorable,A minor factor
+1984,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1964,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small city,Yes,Unfavorable,Unsure
+1973,Mixed,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,Yes,Donald Trump,Suburban,No,Unfavorable,Not a factor at all
+1974,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Someone else,Suburban,Yes,Favorable,A minor factor
+1949,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,Joe Biden,A small town,No,Unfavorable,A minor factor
+1989,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,Yes,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1987,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,Yes,Donald Trump,A small town,No,Unfavorable,A minor factor
+1970,Mixed,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Donald Trump,Rural,No,Unfavorable,The main factor
+1950,"American Indian, Native American, Eskimo",Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Someone else,A small city,No,Favorable,The main factor
+1987,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1971,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,Yes,Donald Trump,A small town,Yes,Unfavorable,The main factor
+1984,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1934,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1974,Unsure,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Donald Trump,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1952,Mixed,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Joe Biden,A small city,No,Unfavorable,Not a factor at all
+1956,Mixed,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,Yes,Favorable,The main factor
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,The main factor
+1940,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Suburban,No,Favorable,A minor factor
+1964,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1970,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small town,Yes,Favorable,A minor factor
+1990,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A small city,No,Favorable,Not a factor at all
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Rural,No,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1988,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,Yes,Joe Biden,A small city,No,Favorable,A minor factor
+1952,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A small town,No,Favorable,A minor factor
+1995,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+2000,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Non-binary,Independent,No,didn't get a chance to vote,Rural,No,Unfavorable,"A major factor, but not the main factor"
+1973,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,Yes,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1975,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,Suburban,Yes,Favorable,The main factor
+1969,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A small city,Yes,Favorable,A minor factor
+1970,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1946,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1966,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,Yes,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1984,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,Yes,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1956,White or Caucasian,Not Latino or Hispanic,TECHNICAL OR TRADE SCHOOL,Male,Republican,No,Donald Trump,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1998,"Asian, Asian Indian",Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,didn't get a chance to vote,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1968,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Donald Trump,A small town,Yes,Favorable,The main factor
+1983,"American Indian, Native American, Eskimo",Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Donald Trump,A small city,No,Favorable,"A major factor, but not the main factor"
+1969,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small town,Yes,Unfavorable,Not a factor at all
+1969,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1974,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,Yes,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1975,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,Yes,Joe Biden,Suburban,Yes,Favorable,The main factor
+1970,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,Yes,Donald Trump,A small city,Yes,Favorable,The main factor
+1960,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Suburban,Yes,Unfavorable,Not a factor at all
+1946,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+2002,Just Hispanic,Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1990,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A big city,No,Unfavorable,Unsure
+1987,Black or African-American,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,Yes,Joe Biden,Suburban,Yes,Favorable,A minor factor
+1985,Black or African-American,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Suburban,Yes,Favorable,The main factor
+1938,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Suburban,Yes,Unfavorable,The main factor
+1980,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Donald Trump,A small city,Yes,Unfavorable,A minor factor
+1944,White or Caucasian,Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1982,White or Caucasian,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Joe Biden,A big city,No,Favorable,Unsure
+1953,White or Caucasian,Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1950,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1957,"American Indian, Native American, Eskimo",Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Rural,Yes,Favorable,The main factor
+1976,Black or African-American,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,A minor factor
+1945,Black or African-American,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Joe Biden,Rural,Yes,Unfavorable,Unsure
+1998,Black or African-American,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Democrat,No,Joe Biden,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1987,Just Hispanic,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,A small city,No,Unfavorable,A minor factor
+1946,Black or African-American,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Joe Biden,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1976,Just Hispanic,Latino or Hispanic,TECHNICAL OR TRADE SCHOOL,Male,Independent,Yes,Donald Trump,A small city,Yes,Unfavorable,Not a factor at all
+1988,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1979,Just Hispanic,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A big city,Yes,Favorable,The main factor
+1957,Black or African-American,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1986,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A big city,Yes,Favorable,A minor factor
+1999,White or Caucasian,Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Someone else,Rural,No,Unfavorable,Unsure
+1986,White or Caucasian,Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,No,Joe Biden,Suburban,Yes,Unfavorable,The main factor
+1975,Mixed,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1939,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1950,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Rural,No,Favorable,"A major factor, but not the main factor"
+1963,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,Yes,Joe Biden,A small city,Yes,Unfavorable,A minor factor
+1949,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Joe Biden,Rural,No,Unfavorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Donald Trump,Rural,No,Unfavorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Rural,Yes,Unfavorable,A minor factor
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,Rural,Yes,Favorable,The main factor
+1947,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1948,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1968,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1935,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,A small city,Yes,Unfavorable,The main factor
+1944,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Unsure,No,Joe Biden,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1962,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1968,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Rural,Yes,Favorable,The main factor
+1996,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,The main factor
+1947,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1942,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small town,Yes,Favorable,The main factor
+1965,White or Caucasian,Not Latino or Hispanic,LESS THAN HIGH SHOOL/LESS THAN 12TH GRADE,Female,Democrat,No,Someone else,Suburban,No,Unfavorable,Unsure
+1936,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1967,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Democrat,No,Joe Biden,Suburban,Yes,Unfavorable,A minor factor
+1957,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small town,Unsure,Unfavorable,Unsure
+1931,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1943,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1941,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,Rural,Yes,Unfavorable,Unsure
+1960,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Joe Biden,Rural,Yes,Favorable,The main factor
+1960,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1966,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Suburban,No,Favorable,The main factor
+1979,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,Yes,Donald Trump,Suburban,No,Unfavorable,Not a factor at all
+1959,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A big city,Yes,Unfavorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1940,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,Suburban,Yes,Unfavorable,The main factor
+1971,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1952,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1948,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1937,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Unfavorable,Unsure
+1950,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1947,Mixed,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Joe Biden,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,No,Joe Biden,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1958,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Republican,No,Donald Trump,Rural,No,Unfavorable,Not a factor at all
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Unsure,Rural,Yes,Unfavorable,The main factor
+1947,Mixed,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Donald Trump,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1931,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A small city,Unsure,Unfavorable,A minor factor
+1937,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Independent,No,Donald Trump,Rural,Yes,Unfavorable,Unsure
+1935,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,Unsure
+1968,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Unsure,Yes,Favorable,Not a factor at all
+1940,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Donald Trump,Suburban,Yes,Favorable,The main factor
+1942,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1929,White or Caucasian,Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1958,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,A big city,No,Unfavorable,The main factor
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1936,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,A big city,Yes,Unfavorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Donald Trump,Suburban,Yes,Unfavorable,A minor factor
+1957,White or Caucasian,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,The main factor
+1964,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1942,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small town,Yes,Unfavorable,The main factor
+1951,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small city,Yes,Unfavorable,The main factor
+1961,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1939,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small town,Yes,Unfavorable,The main factor
+1943,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1942,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,The main factor
+1948,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,Rural,No,Favorable,A minor factor
+1965,White or Caucasian,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Someone else,A small city,No,Favorable,The main factor
+1932,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Donald Trump,A big city,Yes,Unfavorable,Unsure
+1934,Black or African-American,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,No,Joe Biden,A small city,Yes,Unfavorable,A minor factor
+1948,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1925,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,Joe Biden,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1932,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1947,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Donald Trump,A small town,Yes,Unfavorable,A minor factor
+1947,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,Yes,Joe Biden,Suburban,Yes,Favorable,A minor factor
+1952,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,Rural,No,Unfavorable,A minor factor
+1951,White or Caucasian,Not Latino or Hispanic,UNSURE,Female,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1956,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1959,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,No,Favorable,Unsure
+1959,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1935,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1948,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Joe Biden,Rural,Yes,Favorable,A minor factor
+1947,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,Unsure
+1961,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,Yes,Joe Biden,Suburban,Yes,Favorable,The main factor
+1957,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1962,Black or African-American,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,Yes,Favorable,The main factor
+1953,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Joe Biden,A small city,Unsure,Unfavorable,The main factor
+1946,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1963,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,Suburban,Yes,Favorable,The main factor
+1941,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,A small city,Yes,Unfavorable,A minor factor
+1964,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1933,White or Caucasian,Not Latino or Hispanic,LESS THAN HIGH SHOOL/LESS THAN 12TH GRADE,Female,Democrat,No,Joe Biden,A small town,No,Unfavorable,A minor factor
+1938,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,No,Favorable,The main factor
+1942,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,No,Unfavorable,The main factor
+1956,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1935,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Democrat,No,Joe Biden,A small town,Yes,Unfavorable,Not a factor at all
+1980,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,Yes,Donald Trump,Suburban,No,Unfavorable,A minor factor
+1981,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Joe Biden,Suburban,Yes,Favorable,The main factor
+1940,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A big city,Yes,Unfavorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,FOREIGN DEGREE,Male,Independent,No,Someone else,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1937,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A big city,Yes,Favorable,Unsure
+1939,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small town,Yes,Unfavorable,Unsure
+1963,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,A small city,Unsure,Favorable,"A major factor, but not the main factor"
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1946,"American Indian, Native American, Eskimo",Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Someone else,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1942,Black or African-American,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Democrat,No,Joe Biden,Suburban,No,Unfavorable,A minor factor
+1965,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A small town,Yes,Unfavorable,The main factor
+1961,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1945,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,The main factor
+1933,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Donald Trump,A small town,Yes,Unfavorable,Not a factor at all
+1933,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1946,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,The main factor
+1942,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Republican,No,Donald Trump,Rural,No,Unfavorable,"A major factor, but not the main factor"
+1937,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,A small town,No,Unfavorable,Unsure
+1944,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,The main factor
+1933,Black or African-American,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Democrat,No,Joe Biden,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1970,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Donald Trump,A big city,Yes,Favorable,A minor factor
+1944,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Joe Biden,Suburban,No,Unfavorable,The main factor
+1946,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,The main factor
+1970,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1941,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1963,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,TECHNICAL OR TRADE SCHOOL,Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,A minor factor
+1960,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,No,Donald Trump,Rural,No,Unfavorable,"A major factor, but not the main factor"
+1951,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Democrat,No,Joe Biden,A small town,No,Unfavorable,A minor factor
+1939,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Unsure,Yes,Favorable,"A major factor, but not the main factor"
+1948,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Republican,No,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1933,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1978,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Joe Biden,Rural,Yes,Unfavorable,A minor factor
+1959,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Donald Trump,A small town,No,Favorable,"A major factor, but not the main factor"
+1947,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Donald Trump,Rural,Yes,Favorable,"A major factor, but not the main factor"
+1942,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,Suburban,No,Unfavorable,A minor factor
+1945,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Donald Trump,A small city,No,Favorable,"A major factor, but not the main factor"
+1957,"American Indian, Native American, Eskimo",Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1939,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1943,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1956,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1977,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,Yes,Donald Trump,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1955,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1961,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,A minor factor
+1982,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,Yes,Joe Biden,Suburban,No,Favorable,The main factor
+1977,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Someone else,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small city,Yes,Favorable,A minor factor
+1964,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small city,Yes,Unfavorable,A minor factor
+1995,"Asian, Asian Indian",Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,The main factor
+1950,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,A minor factor
+1983,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1942,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Conservative,No,Donald Trump,Suburban,Yes,Unfavorable,Not a factor at all
+1982,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,Yes,Donald Trump,A small city,No,Favorable,"A major factor, but not the main factor"
+1980,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Joe Biden,A big city,No,Favorable,"A major factor, but not the main factor"
+1966,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Donald Trump,A small town,No,Favorable,The main factor
+1940,Mixed,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small city,Yes,Unfavorable,"A major factor, but not the main factor"
+1986,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Libertarian,Yes,Donald Trump,A small city,Yes,Unfavorable,A minor factor
+1959,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1966,"American Indian, Native American, Eskimo",Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Independent,No,didn't get a chance to vote,A big city,No,Unfavorable,A minor factor
+1959,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Republican,No,Donald Trump,A small town,Yes,Unfavorable,"A major factor, but not the main factor"
+1970,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Donald Trump,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1944,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Independent,No,Someone else,Suburban,Yes,Favorable,The main factor
+1954,White or Caucasian,Not Latino or Hispanic,TECHNICAL OR TRADE SCHOOL,Male,Democrat,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1992,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,didn't get a chance to vote,A small city,No,Unfavorable,A minor factor
+1959,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Other,Yes,Joe Biden,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1954,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1975,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Donald Trump,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1951,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Joe Biden,A small city,Yes,Unfavorable,The main factor
+1997,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1957,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A small town,No,Favorable,"A major factor, but not the main factor"
+1993,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1961,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Suburban,Yes,Favorable,A minor factor
+1977,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,Yes,Joe Biden,Suburban,Yes,Favorable,The main factor
+1945,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,No,Favorable,The main factor
+1939,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Donald Trump,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1962,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Libertarian,No,Donald Trump,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1965,"Asian, Asian Indian",Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Joe Biden,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1958,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+2002,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Democrat,No,didn't get a chance to vote,A small town,No,Unfavorable,A minor factor
+1964,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,No,Donald Trump,A big city,No,Favorable,"A major factor, but not the main factor"
+1994,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,No,Donald Trump,A small town,No,Unfavorable,Not a factor at all
+1959,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1980,"Asian, Asian Indian",Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,A big city,Yes,Favorable,"A major factor, but not the main factor"
+1977,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,Yes,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1965,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,didn't get a chance to vote,A small town,No,Unfavorable,Not a factor at all
+1980,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,Yes,Joe Biden,A big city,Yes,Favorable,The main factor
+1956,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Rural,No,Favorable,"A major factor, but not the main factor"
+1977,White or Caucasian,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Republican,No,Donald Trump,A small city,Yes,Unfavorable,Not a factor at all
+1956,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small city,No,Favorable,"A major factor, but not the main factor"
+1979,"American Indian, Native American, Eskimo",Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small city,Yes,Unfavorable,A minor factor
+1963,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1992,"American Indian, Native American, Eskimo",Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Someone else,Suburban,No,Unfavorable,The main factor
+1950,Native Hawaiian and Other Pacific Islander,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1939,Mixed,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Rural,Yes,Unfavorable,Unsure
+1944,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1999,White or Caucasian,Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Suburban,No,Unfavorable,A minor factor
+1954,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Republican,No,Donald Trump,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1949,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,A small town,Yes,Favorable,"A major factor, but not the main factor"
+1962,White or Caucasian,Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,Unsure,Yes,Favorable,"A major factor, but not the main factor"
+1978,"Asian, Asian Indian",Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,Yes,Joe Biden,A big city,No,Unfavorable,The main factor
+1971,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Female,Independent,Yes,Donald Trump,Suburban,No,Favorable,A minor factor
+1984,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,Yes,Joe Biden,A small town,No,Favorable,The main factor
+1945,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,No,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1953,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,Yes,Favorable,"A major factor, but not the main factor"
+1993,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,Yes,Donald Trump,Suburban,No,Unfavorable,The main factor
+1961,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Joe Biden,Suburban,Yes,Favorable,The main factor
+1988,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Independent,Yes,Donald Trump,A small town,No,Unfavorable,A minor factor
+1975,Mixed,Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,Yes,Donald Trump,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1949,Black or African-American,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1962,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Democrat,No,Joe Biden,A small town,Yes,Unfavorable,The main factor
+1936,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1960,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Someone else,A small city,No,Unfavorable,"A major factor, but not the main factor"
+1989,"Asian, Asian Indian",Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Independent,No,Joe Biden,Suburban,Yes,Unfavorable,"A major factor, but not the main factor"
+1997,Black or African-American,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Donald Trump,A big city,No,Unfavorable,A minor factor
+1991,"Asian, Asian Indian",Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Democrat,No,Joe Biden,A big city,No,Unfavorable,"A major factor, but not the main factor"
+1988,White or Caucasian,Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Republican,Yes,Donald Trump,Rural,No,Unfavorable,Unsure
+1960,White or Caucasian,Not Latino or Hispanic,HIGH SCHOOL GRADUATE/HIGH SCHOOL DIPLOMA OR EQUIVALENT (i.e. GED),Male,Independent,No,Joe Biden,Rural,No,Unfavorable,The main factor
+1997,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1952,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Joe Biden,A big city,Yes,Favorable,The main factor
+1944,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,Joe Biden,Suburban,No,Favorable,"A major factor, but not the main factor"
+1963,Mixed,Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Democrat,No,Joe Biden,A small town,No,Favorable,The main factor
+1968,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Independent,No,Joe Biden,Rural,Yes,Unfavorable,"A major factor, but not the main factor"
+1969,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,Joe Biden,Suburban,No,Unfavorable,"A major factor, but not the main factor"
+1988,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Donald Trump,A small city,No,Favorable,The main factor
+1962,"American Indian, Native American, Eskimo",Not Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Male,Republican,No,Donald Trump,Suburban,Yes,Unfavorable,The main factor
+1964,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,Yes,Donald Trump,A big city,Yes,Unfavorable,The main factor
+1981,"American Indian, Native American, Eskimo",Latino or Hispanic,ASSOCIATES DEGREE (2 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,Suburban,Yes,Unfavorable,Unsure
+1953,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,No,Donald Trump,Rural,Yes,Unfavorable,A minor factor
+1991,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Female,Independent,No,Joe Biden,A small city,No,Favorable,"A major factor, but not the main factor"
+1995,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Female,Democrat,No,Joe Biden,A small city,No,Unfavorable,A minor factor
+1967,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Independent,No,Donald Trump,Suburban,No,Favorable,The main factor
+1977,White or Caucasian,Not Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Female,Republican,Yes,Donald Trump,A small town,No,Unfavorable,"A major factor, but not the main factor"
+1967,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Independent,Yes,didn't get a chance to vote,Suburban,Yes,Favorable,The main factor
+1985,White or Caucasian,Latino or Hispanic,MASTERS/GRADUATE/PhD/PROFESSIONAL DEGREE (MA-MS-JD),Male,Democrat,No,didn't get a chance to vote,A big city,Yes,Favorable,The main factor
+1937,White or Caucasian,Not Latino or Hispanic,SOME COLLEGE BUT NO DEGREE,Male,Conservative,No,Donald Trump,A small city,Yes,Favorable,"A major factor, but not the main factor"
+1973,White or Caucasian,Not Latino or Hispanic,BACHELORS DEGREE (BA-BS-4 YEARS OF COLLEGE),Male,Republican,Yes,Donald Trump,Rural,Yes,Favorable,A minor factor
